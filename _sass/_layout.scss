@@ -1,0 +1,247 @@
+::selection {
+  background-color: #FFF5A0;
+}
+
+body {
+  background-color: #FFF;
+}
+
+.big-block {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.first {
+  float: left;
+  padding: 0;
+  position: fixed;
+}
+
+.container {
+  margin-bottom: 32px;
+  width: 100%;
+}
+
+
+/* Beginning of Post Styles */
+
+
+.post-meta {
+  font-family: "Times", "Times New Roman", serif;
+  font-size: .86rem;
+  font-weight: 600;
+}
+
+.post-link {
+  color: black;
+  font-family: "Times", "Times New Roman", serif;
+  text-decoration: underline;
+  &:hover {
+    color: blue;
+  }
+}
+
+.post-title {
+  line-height: 1.4;
+}
+
+
+/* Beginning of Text Styles */
+
+
+li {
+  margin-bottom: 32px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  max-width: 100%;
+}
+
+h4 {
+  font-family: "Times", "Times New Roman", serif;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.header-title {
+  font-family: "Times", "Times New Roman", sans-serif;
+  font-size: 1.6rem;
+  line-height: 35px;
+  width: 100%;
+}
+
+.bigger-text {
+  font-size: 2.2rem;
+}
+
+.description {
+  font-family: "Times", "Times New Roman", serif;
+  margin-top: 80px;
+}
+
+.text {
+  color: #000;
+  font-family: "Times", "Times New Roman", serif;
+  font-weight: 300;
+  line-height: 1.6;
+  margin-top: 8px;
+}
+
+/* Image Styles */
+
+
+.home-image {
+  width: 300px;
+}
+
+.image {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.profile-image {
+  width: 42%;
+}
+
+.small-image {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  width: 300px;
+}
+
+.post-content {
+  z-index: 2;
+}
+
+/* Page Navigation */
+
+
+.smile-home {
+  color: black;
+  font-size: 2rem;
+  margin-bottom: 40px;
+  &:hover {
+    color: blue;
+    text-decoration: none;
+  }
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
+}
+
+.PageNavigation {
+  font-family: "Times", "Times New Roman", serif;
+  font-size: 21px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+.home {
+  float: right;
+  margin-bottom: 8px;
+  padding: 0;
+  max-width: 60%;
+}
+
+img[src="/post-images/"] {
+          display: none;
+       }
+
+/* Beginning of media queries */
+
+
+@media only screen and (min-width: 320px) and (max-width: 1026px) {
+
+  .home {
+    float: none;
+    margin-bottom: 60px;
+    padding: 0;
+    max-width: 100%;
+  }
+
+
+  .container {
+    width: 100%;
+  }
+
+  .first {
+    float: left;
+    padding: 0;
+    position: relative;
+    width: 100%;
+  }
+
+  .wrapper {
+    width: 86% !important;
+  }
+
+  h2 {
+    max-width: 60%;
+  }
+
+  .home {
+    width: 100% !important;
+  }
+
+  .text {
+    width: 100%;
+  }
+
+  .description {
+    width: 100%;
+  }
+
+  .profile-image {
+    margin-top: 4%;
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 700px) {
+
+  .container {
+    margin-bottom: 32px;
+    width: 100%;
+  }
+
+  h2 {
+    max-width: 100%;
+  }
+
+  .image {
+    width: 100%;
+  }
+
+  .text {
+    width: 100%;
+  }
+
+  .description {
+    width: 100%;
+  }
+
+  .profile-image {
+    margin-top: 4%;
+    width: 100%;
+  }
+}
