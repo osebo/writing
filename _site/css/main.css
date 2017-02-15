@@ -163,6 +163,7 @@ body {
     color: blue; }
 
 .post-title {
+  font-size: 1.4rem;
   line-height: 1.4; }
 
 /* Beginning of Text Styles */
@@ -173,6 +174,7 @@ h1 {
   font-size: 2rem; }
 
 h2 {
+  font-size: 2.2rem;
   max-width: 100%; }
 
 h4 {
