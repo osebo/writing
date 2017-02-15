@@ -11,7 +11,7 @@ email: hi@osebo.co
 description:
   This is an activity sheet. Quick updates on my design process, projects, workflow and random things that run through my mind
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://osebo.co" # the base hostname & protocol for your site
+url: "https://osebo.github.io/writing/" # the base hostname & protocol for your site
 twitter_username: osebo_
 github_username:  osebo
 
