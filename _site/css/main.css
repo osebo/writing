@@ -134,7 +134,8 @@ pre {
   background-color: #FFF5A0; }
 
 body {
-  background-color: #FFF; }
+  background-color: #FFF;
+  font-family: "Georgia", "Times New Roman", serif; }
 
 .big-block {
   margin: 0 auto;
@@ -143,7 +144,8 @@ body {
 .first {
   float: left;
   padding: 0;
-  position: fixed; }
+  position: fixed;
+  width: 30%; }
 
 .container {
   margin-bottom: 32px;
@@ -151,13 +153,11 @@ body {
 
 /* Beginning of Post Styles */
 .post-meta {
-  font-family: "Times", "Times New Roman", serif;
   font-size: .86rem;
   font-weight: 600; }
 
 .post-link {
   color: black;
-  font-family: "Times", "Times New Roman", serif;
   text-decoration: underline; }
   .post-link:hover {
     color: blue; }
@@ -176,13 +176,11 @@ h2 {
   max-width: 100%; }
 
 h4 {
-  font-family: "Times", "Times New Roman", serif;
   font-size: 1rem;
   font-weight: 400;
   margin-top: 8px; }
 
 .header-title {
-  font-family: "Times", "Times New Roman", sans-serif;
   font-size: 1.6rem;
   line-height: 35px;
   width: 100%; }
@@ -191,12 +189,10 @@ h4 {
   font-size: 2.2rem; }
 
 .description {
-  font-family: "Times", "Times New Roman", serif;
   margin-top: 80px; }
 
 .text {
   color: #000;
-  font-family: "Times", "Times New Roman", serif;
   font-weight: 300;
   line-height: 1.6;
   margin-top: 8px; }
@@ -211,7 +207,7 @@ h4 {
   width: 100%; }
 
 .profile-image {
-  width: 42%; }
+  width: 100%; }
 
 .small-image {
   margin-top: 24px;
@@ -220,6 +216,9 @@ h4 {
 
 .post-content {
   z-index: 2; }
+
+.border {
+  border: 1px solid #ddd; }
 
 /* Page Navigation */
 .smile-home {
@@ -235,7 +234,6 @@ h4 {
   color: blue; }
 
 .PageNavigation {
-  font-family: "Times", "Times New Roman", serif;
   font-size: 21px;
   display: block;
   width: auto;

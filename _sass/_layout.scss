@@ -4,6 +4,7 @@
 
 body {
   background-color: #FFF;
+  font-family: "Georgia", "Times New Roman", serif;
 }
 
 .big-block {
@@ -15,6 +16,7 @@ body {
   float: left;
   padding: 0;
   position: fixed;
+  width: 30%;
 }
 
 .container {
@@ -27,14 +29,12 @@ body {
 
 
 .post-meta {
-  font-family: "Times", "Times New Roman", serif;
   font-size: .86rem;
   font-weight: 600;
 }
 
 .post-link {
   color: black;
-  font-family: "Times", "Times New Roman", serif;
   text-decoration: underline;
   &:hover {
     color: blue;
@@ -62,14 +62,12 @@ h2 {
 }
 
 h4 {
-  font-family: "Times", "Times New Roman", serif;
   font-size: 1rem;
   font-weight: 400;
   margin-top: 8px;
 }
 
 .header-title {
-  font-family: "Times", "Times New Roman", sans-serif;
   font-size: 1.6rem;
   line-height: 35px;
   width: 100%;
@@ -80,13 +78,11 @@ h4 {
 }
 
 .description {
-  font-family: "Times", "Times New Roman", serif;
   margin-top: 80px;
 }
 
 .text {
   color: #000;
-  font-family: "Times", "Times New Roman", serif;
   font-weight: 300;
   line-height: 1.6;
   margin-top: 8px;
@@ -106,7 +102,7 @@ h4 {
 }
 
 .profile-image {
-  width: 42%;
+  width: 100%;
 }
 
 .small-image {
@@ -117,6 +113,10 @@ h4 {
 
 .post-content {
   z-index: 2;
+}
+
+.border {
+  border: 1px solid #ddd;
 }
 
 /* Page Navigation */
@@ -138,7 +138,6 @@ h4 {
 }
 
 .PageNavigation {
-  font-family: "Times", "Times New Roman", serif;
   font-size: 21px;
   display: block;
   width: auto;
