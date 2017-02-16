@@ -29,6 +29,7 @@ body {
 
 
 .post-meta {
+  color: white;
   font-size: .86rem;
   font-weight: 400;
 }
@@ -42,6 +43,7 @@ body {
 }
 
 .post-title {
+  color: white;
   font-size: 1.4rem;
   line-height: 1.4;
 }
@@ -125,7 +127,7 @@ h4 {
 
 
 .smile-home {
-  color: black;
+  color: white;
   font-size: 2rem;
   margin-bottom: 40px;
   &:hover {
@@ -135,8 +137,12 @@ h4 {
 }
 
 .link {
-  text-decoration: none;
-  color: blue;
+  color: #FFF;
+  border-bottom: 2px solid #FFF;
+  &:hover {
+    color: blue;
+    border-bottom: 2px solid blue;
+  }
 }
 
 .PageNavigation {
