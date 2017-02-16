@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #FFF;
+  background-color: #000;
   font-family: "Georgia", "Times New Roman", serif;
 }
 
@@ -30,11 +30,11 @@ body {
 
 .post-meta {
   font-size: .86rem;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .post-link {
-  color: black;
+  color: #FFF;
   text-decoration: underline;
   &:hover {
     color: blue;
@@ -84,7 +84,7 @@ h4 {
 }
 
 .text {
-  color: #000;
+  color: #FFF;
   font-weight: 300;
   line-height: 1.6;
   margin-top: 8px;
