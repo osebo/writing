@@ -160,9 +160,11 @@ body {
 
 .post-link {
   color: #FFF;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   text-decoration: underline; }
   .post-link:hover {
-    color: blue; }
+    color: blue;
+    font-style: italic; }
 
 .post-title {
   color: white;
