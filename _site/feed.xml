@@ -5,9 +5,33 @@
     <description>This is an activity sheet. Quick updates on my design process, projects, workflow and random things that run through my mind</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Feb 2017 16:53:42 -0500</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 16:53:42 -0500</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2017 23:59:01 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2017 23:59:01 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>05. eego V1.01 feed concept.</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+    &lt;h3 class=&quot;text description&quot;&gt;
+      Users will have the ability add profile picture, and a coverp photo to their eego. We want users to be proud
+      of their collections, so we are adding the ability to share them. Keeping track of the people users like the most
+      can be difficult so we want to give users the ability to &quot;follow&quot; others. We are experimenting with the word
+      &quot;watching&quot; because it feels less social. The eego logo mark will direct the user to a feed of collected content
+      from people the user is &quot;following&quot; or &quot;watching&quot;... more coming soon on this :)
+    &lt;/h3&gt;
+    &lt;img src=&quot;http://i.imgur.com/P4mrjNW.png&quot; class=&quot;image border&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/23/Post5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/23/Post5.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>04. Rainbow custom cards and music player</title>
@@ -18,7 +42,7 @@
     &lt;/h3&gt;
     &lt;img src=&quot;http://i.imgur.com/jzrjsQV.png&quot; class=&quot;image&quot; /&gt;
     &lt;h3 class=&quot;text description&quot;&gt;
-      Below is displays how a user selects a a person to see their likes and the player on mobile.
+      The display below shows how a user selects a person to see their likes and the new player cards on mobile.
     &lt;/h3&gt;
     &lt;img src=&quot;http://i.imgur.com/PoKtafK.png&quot; class=&quot;image&quot; /&gt;
 &lt;/div&gt;
