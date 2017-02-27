@@ -5,20 +5,40 @@
     <description>This is an activity sheet. Quick updates on my design process, projects, workflow and random things that run through my mind</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Feb 2017 22:38:27 -0500</pubDate>
-    <lastBuildDate>Sun, 26 Feb 2017 22:38:27 -0500</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 11:47:04 -0500</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 11:47:04 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>08. osebo mark</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+    &lt;img src=&quot;http://i.imgur.com/Jhlpj1z.png&quot; class=&quot;image&quot; /&gt;
+    &lt;h3 class=&quot;text description&quot;&gt;
+      That is all.
+    &lt;/h3&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 27 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/02/27/Post8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/27/Post8.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>07. Some guy I came across on google maps...</title>
         <description>&lt;div class=&quot;container&quot;&gt;
     &lt;h3 class=&quot;text description&quot;&gt;
-      Many products today overlook their early adopters. Without them, what would their product be?
-      As eego continues to grow, closer to launch I would like to acknowledge or early adopters
+      Many products overlook their early adopters. Without them, what would their product be?
+      As eego continues to grow, closer to, launch I would like to acknowledge our early adopters
       by creating a page dedicated to them. It will increase engagement and add incentive to become a part
-      of our growing creative community... More on this in the new future.
+      of our growing creative community... More on this in the near future.
     &lt;/h3&gt;
-    &lt;img src=&quot;http://i.imgur.com/ijQXKA4.png&quot; class=&quot;image border&quot; /&gt;
+    &lt;img src=&quot;http://i.imgur.com/BOF2ztN.png&quot; class=&quot;image border&quot; /&gt;
     &lt;h3 class=&quot;text description&quot;&gt;
       This guy agrees.
     &lt;/h3&gt;
