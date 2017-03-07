@@ -5,9 +5,29 @@
     <description>This is an activity sheet. Quick updates on my design process, projects, workflow and random things that run through my mind</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Feb 2017 11:47:04 -0500</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2017 11:47:04 -0500</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2017 16:46:25 -0500</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 16:46:25 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>09. Joining Tumblr :)</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+    &lt;h3 class=&quot;text description&quot;&gt;
+      Will be joing the Tumblr Product Design team. More to come...
+    &lt;/h3&gt;
+    &lt;img src=&quot;http://i.imgur.com/aB1Dukd.png&quot; class=&quot;image&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 06 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/06/Post9.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/06/Post9.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>08. osebo mark</title>
