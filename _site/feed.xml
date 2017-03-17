@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Osebo // Activity Sheet</title>
+    <title>osebo :)</title>
     <description>This is an activity sheet. Quick updates on my design process, projects, workflow and random things that run through my mind</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Mar 2017 16:46:25 -0500</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 16:46:25 -0500</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2017 12:05:31 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2017 12:05:31 -0400</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>10. eego loading animation</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+    &lt;h3 class=&quot;text description&quot;&gt;
+      Created a loading animation for the new eego logo mark. The eyes are blinking.
+    &lt;/h3&gt;
+    &lt;img src=&quot;http://i.imgur.com/s88xeac.gif&quot; class=&quot;image&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 13 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/13/Post10.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/13/Post10.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>09. Joining Tumblr :)</title>
         <description>&lt;div class=&quot;container&quot;&gt;
     &lt;h3 class=&quot;text description&quot;&gt;
-      Will be joing the Tumblr Product Design team. More to come...
+      Thankful to announce that I will be joining the Tumblr Product Design team. More to come on this journey...
     &lt;/h3&gt;
     &lt;img src=&quot;http://i.imgur.com/aB1Dukd.png&quot; class=&quot;image&quot; /&gt;
 &lt;/div&gt;
