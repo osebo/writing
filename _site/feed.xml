@@ -5,9 +5,31 @@
     <description>This is an activity sheet. Quick updates on my design process, projects, workflow and random things that run through my mind</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Mar 2017 12:05:31 -0400</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2017 12:05:31 -0400</lastBuildDate>
+    <pubDate>Fri, 24 Mar 2017 23:38:12 -0400</pubDate>
+    <lastBuildDate>Fri, 24 Mar 2017 23:38:12 -0400</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>11. Building a web document editor.</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+    &lt;h3 class=&quot;text description&quot;&gt;
+      Creating a web document editor that will allow users to easily write what comes to their mind in their browser.
+      Currently the product has multiple pages and I am working on adding local storage for instant saving.
+      Next, I want to add a chrome extension and the ability to embed links.
+    &lt;/h3&gt;
+    &lt;img src=&quot;http://i.imgur.com/VHcnok7.png&quot; class=&quot;image&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/03/24/Post11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/03/24/Post11.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>10. eego loading animation</title>
@@ -204,32 +226,6 @@
         <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/update/2017/02/15/Post2.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/15/Post2.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>01. This is an activity sheet.</title>
-        <description>&lt;div class=&quot;container&quot;&gt;
-    &lt;h3 class=&quot;text description&quot;&gt;
-      My previous activity sheet gave me a weird taste in my mouth so I created a new one.
-      &lt;a href=&quot;https://osebo.github.io/activitysheet/&quot; class=&quot;link&quot; target=&quot;_blank&quot;&gt;Here&lt;/a&gt; is a link to the previous one.
-    &lt;/h3&gt;
-    &lt;h3 class=&quot;text description&quot;&gt;
-      Over the weekend Ryan, Sid and I completed our first working version of Rainbow. The experience displays a list of the
-      people the user is following on Soundcloud. When a user selects a person they area able to view their likes. Next we are
-      working on creating our own custom player and building the experience on mobile.
-    &lt;/h3&gt;
-    &lt;img src=&quot;http://i.imgur.com/St97EJc.png&quot; class=&quot;image border&quot; /&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 12 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/02/12/Intro.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/02/12/Intro.html</guid>
         
         
         <category>jekyll</category>
